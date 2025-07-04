@@ -1,7 +1,13 @@
-- ## 👋 Hi, I’m Shubham Kumar
+- ### 👋 Hi, I’m Shubham Kumar
 - 
-   I am a QA-Automation Test Engineer
+   #I am a QA-Automation Test Engineer
+ # Software Test Engineer | 3+ Years Experience
 
+#Experienced in testing web and mobile applications (Android & iOS) in the Consumer Goods domain. Strong understanding of SDLC & STLC with hands-on expertise in Functional, Regression, Smoke, UI, API, ETL, and Mobile App Testing.
+#Skilled in test case design, execution, defect reporting (Spira), and test data preparation
+#Automation experience with Selenium, Appium, TestNG, Maven, Jenkins, and SVN
+#Proficient in analyzing SRS/FRS, creating RTMs, and participating in bug review meetings
+#Familiar with Java and basic database concepts
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ig.shubhamraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig.shubhamraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ig-shubhamraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubhamraj001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ig.shubhamraj@gmail.com) 
