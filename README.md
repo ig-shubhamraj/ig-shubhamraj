@@ -2,7 +2,7 @@
   
  ## QA-Automation Test Engineer | 3+ Years Experience
 
-#Experienced in testing web and mobile applications (Android & iOS) in the Consumer Goods domain. Strong understanding of SDLC & STLC with hands-on expertise in Functional, Regression, Smoke, UI, API, ETL, and Mobile App Testing.
+- Experienced in testing web and mobile applications (Android & iOS) in the Consumer Goods domain. Strong understanding of SDLC & STLC with hands-on expertise in Functional, Regression, Smoke, UI, API, ETL, and Mobile App Testing.
 #Skilled in test case design, execution, defect reporting (Spira), and test data preparation
 #Automation experience with Selenium, Appium, TestNG, Maven, Jenkins, and SVN
 #Proficient in analyzing SRS/FRS, creating RTMs, and participating in bug review meetings
