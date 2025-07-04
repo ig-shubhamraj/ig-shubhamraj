@@ -1,6 +1,6 @@
 - ## 👋 Hi, I’m Shubham Kumar
   
- ## QA-Automation Test Engineer | 3+ Years Experience
+- ## QA-Automation Test Engineer | 3+ Years Experience
 
 - Experienced in testing web and mobile applications (Android & iOS) in the Consumer Goods domain. Strong understanding of SDLC & STLC with hands-on expertise in Functional, Regression, Smoke, UI, API, ETL, and Mobile App Testing.
 #Skilled in test case design, execution, defect reporting (Spira), and test data preparation
